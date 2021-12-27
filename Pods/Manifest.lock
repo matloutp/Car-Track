@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (5.4.3)
+  - FontBlaster (5.2.0)
+  - Hero (1.6.1)
+  - InfiniteLayout (0.4.2):
+    - InfiniteLayout/Core (= 0.4.2)
+  - InfiniteLayout/CocoaProxy (0.4.2)
+  - InfiniteLayout/Core (0.4.2):
+    - InfiniteLayout/CocoaProxy
+  - Loaf (0.7.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SQLite.swift (0.13.1):
+    - SQLite.swift/standard (= 0.13.1)
+  - SQLite.swift/standard (0.13.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - FontBlaster
+  - Hero
+  - InfiniteLayout
+  - Loaf
+  - NVActivityIndicatorView
+  - SDWebImage
+  - SQLite.swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FontBlaster
+    - Hero
+    - InfiniteLayout
+    - Loaf
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  FontBlaster: b848e9d7b0ed2f2b3ebaf5b83458eb4ff9ba0764
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+  InfiniteLayout: de51cfad9ed480a3e3a0af7d28242d3257c606d9
+  Loaf: d69937cd00649f3fa260beb8b7aef0a1feb861ef
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SQLite.swift: 30f2cdb09627181d472e55c4bc6b3b161f28de33
+
+PODFILE CHECKSUM: 70fa31d7f41deff1a1fe733578391d5775f16585
+
+COCOAPODS: 1.10.2
